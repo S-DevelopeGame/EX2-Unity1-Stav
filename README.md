@@ -16,4 +16,4 @@
 [HealthBar](https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/HealthBar.cs)
 
 כח נוסף ⚡️ - כח בצורת ברק שיורד מהשמיים ומקנה לחללית מהירות גבוהה יותר כלומר ברגע שהחללית לוקחת את הברק היא תהיה מהירה יותר ובעלת כושר התחמקות גבוהה יותר.
-זאת ביצעתי בעזרת הסקריפט: [MovePower] (https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/MovePower.cs)
+זאת ביצעתי בעזרת הסקריפט: [MovePower](https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/MovePower.cs)
