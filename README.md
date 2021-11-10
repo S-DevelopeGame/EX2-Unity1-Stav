@@ -10,9 +10,10 @@
 * כוח נוסף שתוכלו לקבל שיתן לכם מהירות גבוהה יותר 
 
 השינויים שביצעתי:
-מד חיים ❤️️ - 3 אפשרויות להיפסל כלומר 3 חיים לשחקן, זאת ביצעתי בעזרת סקריפט נוסף שבו יש עדכון של החיים כאשר השחקן נפסל, 
+
+מד חיים ❤️️ - 3 אפשרויות להיפסל כלומר 3 חיים לשחקן, זאת ביצעתי בעזרת סקריפט נוסף שבו יש עדכון של החיים כאשר השחקן נפסל,
 כלומר כאשר החללית פוגעת באויב מד החיים מתעדכן ל-2 ולכן נשארו לו 2 פסילות.
-הסקריפט: https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/HealthBar.cs
+[HealthBar](https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/HealthBar.cs)
 
 כח נוסף ⚡️ - כח בצורת ברק שיורד מהשמיים ומקנה לחללית מהירות גבוהה יותר כלומר ברגע שהחללית לוקחת את הברק היא תהיה מהירה יותר ובעלת כושר התחמקות גבוהה יותר.
-זאת ביצעתי בעזרת הסקריפט: https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/MovePower.cs
+זאת ביצעתי בעזרת הסקריפט: [MovePower] (https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/MovePower.cs)
