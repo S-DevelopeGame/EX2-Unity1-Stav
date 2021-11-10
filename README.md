@@ -17,3 +17,6 @@
 
 כח נוסף ⚡️ - כח בצורת ברק שיורד מהשמיים ומקנה לחללית מהירות גבוהה יותר כלומר ברגע שהחללית לוקחת את הברק היא תהיה מהירה יותר ובעלת כושר התחמקות גבוהה יותר.
 זאת ביצעתי בעזרת הסקריפט: [MovePower](https://github.com/S-DevelopeGame/EX2-Unity1-Stav/blob/master/Assets/Scripts/MovePower.cs)
+
+רוצים לשחק?
+היכנסו : https://snir1551.itch.io/spaceship2
